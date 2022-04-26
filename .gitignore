@@ -1,0 +1,7 @@
+*.entities
+*.git
+*.local
+*.objects
+*.settings
+*.templates
+*.tmh
